@@ -1,0 +1,14 @@
+{
+  "name": "barebones-http-examples",
+  "version": "1.0.0",
+  "description": "Some examples of a basic web server built using the net, http, and express libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
